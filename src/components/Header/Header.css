@@ -1,0 +1,12 @@
+.rmdb {
+    display: flex;
+    position: relative;
+
+}
+
+.rmdb>p {
+    position: absolute;
+    top: -9px;
+    left: 50px;
+    font-size: larger;
+}
